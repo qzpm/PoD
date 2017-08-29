@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d51019718d751b04a84942a2f5e89aaa
+timeCreated: 1503369780
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Koku Mincho Regular
+  fontNames:
+  - Koku Mincho Regular
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2bd9346f0763b4540853741df36ec412, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

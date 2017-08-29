@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 91a37187eed495443bb9075c5d0b0300
+timeCreated: 1503037297
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GauFontOverDrive
+  fontNames:
+  - GauFontOverDrive
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
